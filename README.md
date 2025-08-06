@@ -14,7 +14,7 @@ Este é um projeto de **interface responsiva** para uma loja virtual de comidas 
 
 ## 📸 Preview
 
-![screenshot do projeto](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2FC81DF8BDE3DCEFC5%21sec822ecab670462bad1f436549f3cb29%3Fithint%3Dphoto%26e%3DfTeFHe%26migratedtospo%3Dtrue&cid=C81DF8BDE3DCEFC5&id=C81DF8BDE3DCEFC5%21sec822ecab670462bad1f436549f3cb29&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9jODFkZjhiZGUzZGNlZmM1L0Vjb3VndXh3dGl0R3JSOURaVW56eXlrQjNodklkTE9NdkhtMnpGUFFUNHl6Qmc_ZT1mVGVGSGU&v=photos)
+![screenshot do projeto](blob:https://onedrive.live.com/7414b4bb-0bcb-4a5a-89bd-3bc26bb4e649)
 
 > Interface responsiva com grid de produtos estilizado.
 
