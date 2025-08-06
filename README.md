@@ -12,14 +12,6 @@ Este é um projeto de **interface responsiva** para uma loja virtual de comidas 
 
 ---
 
-## 📸 Preview
-
-![screenshot do projeto](blob:https://onedrive.live.com/7414b4bb-0bcb-4a5a-89bd-3bc26bb4e649)
-
-> Interface responsiva com grid de produtos estilizado.
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```bash
@@ -32,6 +24,8 @@ design-loja-comida-chakra/
 │   ├── App.js
 └── README.md
 ```
+
+---
 
 ## 📦 Instalação
 
@@ -58,6 +52,8 @@ npm install
 npm start
 ```
 
+---
+
 ## 📌 Funcionalidades
 > ✅ Layout responsivo com SimpleGrid
 
@@ -67,6 +63,7 @@ npm start
 
 > ✅ Design intuitivo e agradável para e-commerce de alimentos
 
+---
 
 ## 👨‍💻 Autor
 Desenvolvido por Pedro Oliveira
